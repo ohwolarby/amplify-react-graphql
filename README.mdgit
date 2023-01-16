@@ -1,0 +1,1 @@
+"# amplify-react-graphql"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/ohwolarby/amplify-react-graphql.gitgit push -u origin main
